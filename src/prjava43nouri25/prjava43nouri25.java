@@ -1,5 +1,4 @@
 package prjava43nouri25;
-import java.io.*;
 import java.awt.*;        // using AWT containers and components 
 import java.awt.event.*;  // using AWT events and listener interfaces 
 import java.net.*;
